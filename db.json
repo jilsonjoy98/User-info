@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "jilson joy",
+      "username": "Bretuw",
+      "email": "jils@jjwww",
+      "phone": 12345567,
+      "website": "sfdsgfhsgf.com"
+    },
+    {
+      "id": "2",
+      "name": "jilson fjhg",
+      "username": "Bret1223",
+      "email": "jils@jaeqweqeqj",
+      "phone": 1234557686868,
+      "website": "sfdsgfhsgf.com"
+    },
+    {
+      "id": "3",
+      "name": "jilsonb gfddh",
+      "username": "Bret",
+      "email": "jils@jj",
+      "phone": 12345,
+      "website": "sfdsgfhsgf.com"
+    }
+  ]
+}
